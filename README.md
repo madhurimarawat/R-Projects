@@ -14,7 +14,7 @@ This repository contains the projects that I made in the R programming language.
 <centre><h1>About Projects</h1></centre>
 <p>Complete Description about the project and resources used.</p>
 <br>
-<h2>Twitter Sentiment Analysis</h2>
+<h2>Twitter Sentimental Analysis</h2>
 --> Twitter sentiment analysis analyzes the sentiment or emotion of tweets. <br>
 --> In this project sentiment analysis of CSV file containing tweets about Mr. Virat Kohli is done in R.<br>
 --> The tweets extracted using twitter api are stored in csv file.<br>
