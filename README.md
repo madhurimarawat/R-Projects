@@ -9,17 +9,24 @@ This repository contains the projects that I made in the R programming language.
 --> R is available across widely used platforms like Windows, Linux, and macOS.<br><br>
 --> R also provides rich Library support.<br>
 
+---
+
+<h1>About Projects</h1>
+<p>Complete Description about the project and resources used.</p><br>
+
 ![maxresdefault](https://github.com/madhurimarawat/R-Projects/assets/105432776/ca409533-8052-4f66-a814-43816ff0521c)
 <br><br>
-<centre><h1>About Projects</h1></centre>
-<p>Complete Description about the project and resources used.</p>
-<br>
 <h2>Twitter Sentimental Analysis</h2>
---> Twitter sentiment analysis analyzes the sentiment or emotion of tweets. <br>
---> In this project sentiment analysis of CSV file containing tweets about Mr. Virat Kohli is done in R.<br>
---> The tweets extracted using twitter api are stored in csv file.<br>
---> Then this csv file is cleaned using various predefined functions .<br>
---> Sentiments are extracted using libraries in R. <br>
+Twitter sentiment analysis analyzes the sentiment or emotion of tweets. <br>
+<h2>Dataset Used</h2>
+<h3>Tweets Dataset</h3>
+--> The tweets extracted using twitter api are stored in csv file.<br> <br>
+--> The csv file is not preprocessed ,thus data cleaning is required.<br>
+
+<h3>Project</h3>
+--> In this project sentiment analysis of CSV file containing tweets about Mr. Virat Kohli is done in R.<br> <br>
+--> CSV file is cleaned using various predefined functions .<br> <br>
+--> Sentiments are extracted using libraries in R. <br> <br>
 --> Finally Data Visualizaion is done to represent the analysis in an understandable way.<br>
 
 <h2>Libraries Used</h2>
