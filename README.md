@@ -31,6 +31,7 @@ Twitter sentiment analysis analyzes the sentiment or emotion of tweets. <br>
 
 <h2>Libraries Used</h2>
 <p>Short Description about all libraries used in Project.</p>
+To install R library this command is used- install.packages(library_name) <br><br>
 <ul>
 <li>syuzhet-syuzhet library is used for sentiment extraction or getting the sentiment scores. </li>
   <li>SentimentAnalysis-SentimentAnalysis library is used for Sentimental analysis.</li>
