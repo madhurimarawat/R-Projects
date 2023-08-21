@@ -49,3 +49,12 @@ To install R library this command is used- install.packages(library_name) <br><b
   <li>SentimentAnalysis-SentimentAnalysis library is used for Sentimental analysis.</li>
   <li>ggplot2-ggplot2 is used for plotting the final plot of the sentimental analysis.</li>
 </ul>
+
+---
+
+# Thanks for Visiting 😄
+
+Drop a 🌟 if you find this repository useful.<br><br>
+If you have any doubts or suggestions, feel free to reach me.<br><br>
+📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
+<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://www.freepnglogos.com/uploads/arrow-with-e-mail-logo-png-7.png" height=35 width=30 > </a>
