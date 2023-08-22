@@ -7,8 +7,11 @@ This repository contains the projects that I made in the R programming language.
 --> R is an open-source programming language that is widely used as a statistical software and data analysis tool.<br><br>
 --> R generally comes with the Command-line interface.<br><br>
 --> R is available across widely used platforms like Windows, Linux, and macOS.<br><br>
---> R also provides rich Library support.<br>
-
+--> R also provides rich Library support.<br><br>
+--> To install R library this command is used-<br>
+```
+install.packages(library_name)
+```
 ---
 # Mode of Execution Used:  <img src="https://logos-download.com/wp-content/uploads/2020/06/RStudio_Logo.png" title="R Studio" alt="R Studio" width="40" height="40">
 <h2>R</h2>
